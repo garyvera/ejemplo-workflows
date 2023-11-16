@@ -8,4 +8,3 @@ export const sum = (a: number, b: number) => {
 export const substract = (a: number, b: number) => {
   return a - b;
 };
-
